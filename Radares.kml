@@ -1,0 +1,1641 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Radares" id="Radares">
+	<SimpleField name="Ruta" type="float"></SimpleField>
+	<SimpleField name="Progresiva" type="string"></SimpleField>
+	<SimpleField name="Descripci�" type="string"></SimpleField>
+	<SimpleField name="Latitud" type="float"></SimpleField>
+	<SimpleField name="Longitud" type="float"></SimpleField>
+	<SimpleField name="Departamen" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+	<SimpleField name="AÑO" type="float"></SimpleField>
+</Schema>
+<Folder><name>Radares</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">5K845</SimpleData>
+		<SimpleData name="Descripci�">Santin Carlos Rossi</SimpleData>
+		<SimpleData name="Latitud">-34.864100000000001</SimpleData>
+		<SimpleData name="Longitud">-56.252699999999997</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2526978701916,-34.8641328576687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">5K100</SimpleData>
+		<SimpleData name="Descripci�">Pantanoso E</SimpleData>
+		<SimpleData name="Latitud">-34.866999999999997</SimpleData>
+		<SimpleData name="Longitud">-56.246200000000002</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2462023957557,-34.8669874164744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">2K210/2K220</SimpleData>
+		<SimpleData name="Descripci�">Capurro</SimpleData>
+		<SimpleData name="Latitud">-34.870300000000000</SimpleData>
+		<SimpleData name="Longitud">-56.219099999999997</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.219113560168,-34.8702728090049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">3K650/3K750</SimpleData>
+		<SimpleData name="Descripci�">Refineria</SimpleData>
+		<SimpleData name="Latitud">-34.872000000000000</SimpleData>
+		<SimpleData name="Longitud">-56.233300000000000</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.233258868389,-34.8719883460668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">5K600</SimpleData>
+		<SimpleData name="Descripci�">Pantanoso S</SimpleData>
+		<SimpleData name="Latitud">-34.864510000000003</SimpleData>
+		<SimpleData name="Longitud">-56.250180000000000</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.250175,-34.86451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">1K530/1K570</SimpleData>
+		<SimpleData name="Descripci�">Juan Carlos Gomez</SimpleData>
+		<SimpleData name="Latitud">-34.902500000000003</SimpleData>
+		<SimpleData name="Longitud">-56.204867780000001</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.204867777315,-34.9025064802533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">61K336/61K178</SimpleData>
+		<SimpleData name="Descripci�">Punta de Valdez</SimpleData>
+		<SimpleData name="Latitud">-34.590499999999999</SimpleData>
+		<SimpleData name="Longitud">-56.705199999999998</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.7052,-34.5905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">120K987</SimpleData>
+		<SimpleData name="Descripci�">Colonia Valdense</SimpleData>
+		<SimpleData name="Latitud">-34.336199999999998</SimpleData>
+		<SimpleData name="Longitud">-57.260300000000001</SimpleData>
+		<SimpleData name="Departamen">Colonia</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.2603,-34.3362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">174k210</SimpleData>
+		<SimpleData name="Descripci�">Colonia del Sacramento</SimpleData>
+		<SimpleData name="Latitud">-34.455599999999997</SimpleData>
+		<SimpleData name="Longitud">-57.815600000000003</SimpleData>
+		<SimpleData name="Departamen">Colonia</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8156,-34.4556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">51K571/51K278</SimpleData>
+		<SimpleData name="Descripci�">Paso Mauricio</SimpleData>
+		<SimpleData name="Latitud">-34.644799999999996</SimpleData>
+		<SimpleData name="Longitud">-56.620899999999999</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.6209,-34.6448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">29k000</SimpleData>
+		<SimpleData name="Descripci�">Penino a +</SimpleData>
+		<SimpleData name="Latitud">-34.741500000000002</SimpleData>
+		<SimpleData name="Longitud">-56.444499999999998</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.4445,-34.7415</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">29K360</SimpleData>
+		<SimpleData name="Descripci�">Penino a -</SimpleData>
+		<SimpleData name="Latitud">-34.754700000000000</SimpleData>
+		<SimpleData name="Longitud">-56.424300000000002</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.4243,-34.7547</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">1</SimpleData>
+		<SimpleData name="Progresiva">101K738</SimpleData>
+		<SimpleData name="Descripci�">Ecilda Paullier S-E</SimpleData>
+		<SimpleData name="Latitud">-34.366300000000003</SimpleData>
+		<SimpleData name="Longitud">-57.051800000000000</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.051803,-34.366281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">2</SimpleData>
+		<SimpleData name="Progresiva">181K957</SimpleData>
+		<SimpleData name="Descripci�">Florencio Sanchez</SimpleData>
+		<SimpleData name="Latitud">-33.877299999999998</SimpleData>
+		<SimpleData name="Longitud">-57.372399999999999</SimpleData>
+		<SimpleData name="Departamen">Colonia</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.3724,-33.8773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">624K037</SimpleData>
+		<SimpleData name="Descripci�">Bella Unión</SimpleData>
+		<SimpleData name="Latitud">-30.248500000000000</SimpleData>
+		<SimpleData name="Longitud">-57.587899999999998</SimpleData>
+		<SimpleData name="Departamen">Artigas</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.58785,-30.24854</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">626K411</SimpleData>
+		<SimpleData name="Descripci�">Bella Unión - Barrio las Láminas</SimpleData>
+		<SimpleData name="Latitud">-30.263100000000001</SimpleData>
+		<SimpleData name="Longitud">-57.590100000000000</SimpleData>
+		<SimpleData name="Departamen">Artigas</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.5901,-30.2631</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">191K370</SimpleData>
+		<SimpleData name="Descripci�">Trinidad Acceso N-O</SimpleData>
+		<SimpleData name="Latitud">-33.512799999999999</SimpleData>
+		<SimpleData name="Longitud">-56.912399999999998</SimpleData>
+		<SimpleData name="Departamen">Flores</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.9124,-33.5128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">187K090</SimpleData>
+		<SimpleData name="Descripci�">Trinidad Acceso Sur</SimpleData>
+		<SimpleData name="Latitud">-33.536299999999997</SimpleData>
+		<SimpleData name="Longitud">-56.888700000000000</SimpleData>
+		<SimpleData name="Departamen">Flores</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.8887,-33.5363</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">71K785</SimpleData>
+		<SimpleData name="Descripci�">Villa María Acceso</SimpleData>
+		<SimpleData name="Latitud">-34.512300000000003</SimpleData>
+		<SimpleData name="Longitud">-56.762300000000003</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.7623,-34.5123</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">71K150</SimpleData>
+		<SimpleData name="Descripci�">Villa María Acceso</SimpleData>
+		<SimpleData name="Latitud">-34.518000000000001</SimpleData>
+		<SimpleData name="Longitud">-56.761299999999999</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.7613,-34.518</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">92K275</SimpleData>
+		<SimpleData name="Descripci�">San José-Pque Rodó</SimpleData>
+		<SimpleData name="Latitud">-34.333900000000000</SimpleData>
+		<SimpleData name="Longitud">-56.731099999999998</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.7311,-34.3339</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">432K005</SimpleData>
+		<SimpleData name="Descripci�">Termas Guaviyu</SimpleData>
+		<SimpleData name="Latitud">-31.839900000000000</SimpleData>
+		<SimpleData name="Longitud">-57.886380269999997</SimpleData>
+		<SimpleData name="Departamen">Paysandú</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8863802729871,-31.8399382959238</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">476K980</SimpleData>
+		<SimpleData name="Descripci�">Termas Dayman Sur</SimpleData>
+		<SimpleData name="Latitud">-31.456800000000001</SimpleData>
+		<SimpleData name="Longitud">-57.904820090000001</SimpleData>
+		<SimpleData name="Departamen">Salto</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.9048200901191,-31.45680237355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">478K265</SimpleData>
+		<SimpleData name="Descripci�">Termas Dayman Norte</SimpleData>
+		<SimpleData name="Latitud">-31.449700000000000</SimpleData>
+		<SimpleData name="Longitud">-57.914256899999998</SimpleData>
+		<SimpleData name="Departamen">Salto</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.914256904336,-31.4497123364456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">482K920</SimpleData>
+		<SimpleData name="Descripci�">Salto Sur</SimpleData>
+		<SimpleData name="Latitud">-31.416100000000000</SimpleData>
+		<SimpleData name="Longitud">-57.941011920000001</SimpleData>
+		<SimpleData name="Departamen">Salto</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.941011919503,-31.4161477972689</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">Acceso Sur</SimpleData>
+		<SimpleData name="Descripci�">Young Sur</SimpleData>
+		<SimpleData name="Latitud">-32.715940000000003</SimpleData>
+		<SimpleData name="Longitud">-57.622380000000000</SimpleData>
+		<SimpleData name="Departamen"> Río Negro</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.62238,-32.71594</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">Acceso Norte</SimpleData>
+		<SimpleData name="Descripci�">Young Norte</SimpleData>
+		<SimpleData name="Latitud">-32.693500000000000</SimpleData>
+		<SimpleData name="Longitud">-57.640590000000003</SimpleData>
+		<SimpleData name="Departamen"> Río Negro</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.64059,-32.6935</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">4</SimpleData>
+		<SimpleData name="Progresiva">380K110</SimpleData>
+		<SimpleData name="Descripci�">Guichón</SimpleData>
+		<SimpleData name="Latitud">-32.360700000000001</SimpleData>
+		<SimpleData name="Longitud">-57.209395999999998</SimpleData>
+		<SimpleData name="Departamen">Paysandú</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.209396,-32.360728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">37K480</SimpleData>
+		<SimpleData name="Descripci�">Juanicó</SimpleData>
+		<SimpleData name="Latitud">-34.597099999999998</SimpleData>
+		<SimpleData name="Longitud">-56.261899999999997</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2619,-34.5971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">38K131</SimpleData>
+		<SimpleData name="Descripci�">Juanicó</SimpleData>
+		<SimpleData name="Latitud">-34.591200000000001</SimpleData>
+		<SimpleData name="Longitud">-56.262900000000002</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2629,-34.5912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">186K392</SimpleData>
+		<SimpleData name="Descripci�">Santa Bernardina</SimpleData>
+		<SimpleData name="Latitud">-33.366100000000003</SimpleData>
+		<SimpleData name="Longitud">-56.509099999999997</SimpleData>
+		<SimpleData name="Departamen">Durazno</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.5091,-33.3661</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">248K000</SimpleData>
+		<SimpleData name="Descripci�">Pueblo Centenario</SimpleData>
+		<SimpleData name="Latitud">-32.825099999999999</SimpleData>
+		<SimpleData name="Longitud">-56.498699999999999</SimpleData>
+		<SimpleData name="Departamen">Durazno</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.4987,-32.8251</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">377K354</SimpleData>
+		<SimpleData name="Descripci�">Paso Bonilla</SimpleData>
+		<SimpleData name="Latitud">-31.810500000000001</SimpleData>
+		<SimpleData name="Longitud">-55.975499999999997</SimpleData>
+		<SimpleData name="Departamen">Tacuarembó</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9755,-31.8105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">385K972</SimpleData>
+		<SimpleData name="Descripci�">Tacuarembó / Ruta 26 S</SimpleData>
+		<SimpleData name="Latitud">-31.741399999999999</SimpleData>
+		<SimpleData name="Longitud">-55.982500000000002</SimpleData>
+		<SimpleData name="Departamen">Tacuarembó</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9825,-31.7414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">393K605</SimpleData>
+		<SimpleData name="Descripci�">Tacuarembó / Ruta 26 N b</SimpleData>
+		<SimpleData name="Latitud">-31.693899999999999</SimpleData>
+		<SimpleData name="Longitud">-55.938699999999997</SimpleData>
+		<SimpleData name="Departamen">Tacuarembó</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9387,-31.6939</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">1K136</SimpleData>
+		<SimpleData name="Descripci�">Melo / Ruta 7 NE</SimpleData>
+		<SimpleData name="Latitud">-32.360300000000002</SimpleData>
+		<SimpleData name="Longitud">-54.152999999999999</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.153,-32.3603</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">52K528</SimpleData>
+		<SimpleData name="Descripci�">San Jacinto S-O</SimpleData>
+		<SimpleData name="Latitud">-34.549500000000002</SimpleData>
+		<SimpleData name="Longitud">-55.876399999999997</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.876389,-34.549511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">77K785</SimpleData>
+		<SimpleData name="Descripci�">Tala S</SimpleData>
+		<SimpleData name="Latitud">-34.350110000000001</SimpleData>
+		<SimpleData name="Longitud">-55.767510000000001</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7675118926047,-34.3501146853262</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">79K500</SimpleData>
+		<SimpleData name="Descripci�">Tala NE</SimpleData>
+		<SimpleData name="Latitud">-34.341119999999997</SimpleData>
+		<SimpleData name="Longitud">-55.754069999999999</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7540730574935,-34.3411155951974</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">94K610</SimpleData>
+		<SimpleData name="Descripci�">Fray Marcos S</SimpleData>
+		<SimpleData name="Latitud">-34.205910000000003</SimpleData>
+		<SimpleData name="Longitud">-55.743639999999999</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7436399476506,-34.2059100499174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">97K620/98K078</SimpleData>
+		<SimpleData name="Descripci�">Fray Marcos NE</SimpleData>
+		<SimpleData name="Latitud">-34.192480000000003</SimpleData>
+		<SimpleData name="Longitud">-55.728909920000000</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7289099151356,-34.1924846606652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">110K240</SimpleData>
+		<SimpleData name="Descripci�">Casupá SO</SimpleData>
+		<SimpleData name="Latitud">-34.104199999999999</SimpleData>
+		<SimpleData name="Longitud">-55.657928110000000</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6579281113415,-34.1041745818277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">111K100</SimpleData>
+		<SimpleData name="Descripci�">Casupá NE</SimpleData>
+		<SimpleData name="Latitud">-34.097999999999999</SimpleData>
+		<SimpleData name="Longitud">-55.652191979999998</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6521919757243,-34.0980064212785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">142K010</SimpleData>
+		<SimpleData name="Descripci�">Alejandro Gallinal SO</SimpleData>
+		<SimpleData name="Latitud">-33.867699999999999</SimpleData>
+		<SimpleData name="Longitud">-55.551641150000002</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5516411467032,-33.8677282196072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">143K910</SimpleData>
+		<SimpleData name="Descripci�">Alejandro Gallinal NE</SimpleData>
+		<SimpleData name="Latitud">-33.860100000000003</SimpleData>
+		<SimpleData name="Longitud">-55.536424029999999</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5364240302569,-33.8600693520024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">204K320</SimpleData>
+		<SimpleData name="Descripci�">José Batlle y Ordoñez Sur</SimpleData>
+		<SimpleData name="Latitud">-33.473399999999998</SimpleData>
+		<SimpleData name="Longitud">-55.151310700000003</SimpleData>
+		<SimpleData name="Departamen">Lavalleja</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.1513107009003,-33.4734376695168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">205K485</SimpleData>
+		<SimpleData name="Descripci�">José Batlle y Ordoñez Norte</SimpleData>
+		<SimpleData name="Latitud">-33.464300000000001</SimpleData>
+		<SimpleData name="Longitud">-55.146061469999999</SimpleData>
+		<SimpleData name="Departamen">Lavalleja</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.1460614671109,-33.4643426791989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">249K960</SimpleData>
+		<SimpleData name="Descripci�">Ruta 7 Cerro Chato Sur</SimpleData>
+		<SimpleData name="Latitud">-33.112600000000000</SimpleData>
+		<SimpleData name="Longitud">-55.132553510000001</SimpleData>
+		<SimpleData name="Departamen">Treinta y Tres</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.1325535132927,-33.1125798734492</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">279K880</SimpleData>
+		<SimpleData name="Descripci�">Santa Clara del Olimar Sur</SimpleData>
+		<SimpleData name="Latitud">-32.924100000000003</SimpleData>
+		<SimpleData name="Longitud">-54.955349810000001</SimpleData>
+		<SimpleData name="Departamen">Treinta y Tres</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9553498138651,-32.9241425102975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">282K530</SimpleData>
+		<SimpleData name="Descripci�">Santa Clara del Olimar Norte</SimpleData>
+		<SimpleData name="Latitud">-32.917800000000000</SimpleData>
+		<SimpleData name="Longitud">-54.931229649999999</SimpleData>
+		<SimpleData name="Departamen">Treinta y Tres</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.9312296457585,-32.9177810507186</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">303K455</SimpleData>
+		<SimpleData name="Descripci�">Tupambae Sur</SimpleData>
+		<SimpleData name="Latitud">-32.841200000000001</SimpleData>
+		<SimpleData name="Longitud">-54.766775760000002</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7667757632656,-32.8412435408376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">304K835</SimpleData>
+		<SimpleData name="Descripci�">Tupambae Norte</SimpleData>
+		<SimpleData name="Latitud">-32.836500000000001</SimpleData>
+		<SimpleData name="Longitud">-54.754627159999998</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7546271602774,-32.8365358531651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">337K215</SimpleData>
+		<SimpleData name="Descripci�">Cerro de las Cuentas</SimpleData>
+		<SimpleData name="Latitud">-32.622900000000001</SimpleData>
+		<SimpleData name="Longitud">-54.591848440000000</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.591848437673,-32.6229474233527</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">350K615</SimpleData>
+		<SimpleData name="Descripci�">Fraile Muerto S</SimpleData>
+		<SimpleData name="Latitud">-32.518099999999997</SimpleData>
+		<SimpleData name="Longitud">-54.540999999999997</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5409638809233,-32.5180860502482</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">7</SimpleData>
+		<SimpleData name="Progresiva">354K415</SimpleData>
+		<SimpleData name="Descripci�">Fraile Muerto N</SimpleData>
+		<SimpleData name="Latitud">-32.506500000000003</SimpleData>
+		<SimpleData name="Longitud">-54.514818060000003</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5148180585261,-32.5064734669914</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">13K457/13K385</SimpleData>
+		<SimpleData name="Descripci�">Punta de Rieles-Barros Blancos</SimpleData>
+		<SimpleData name="Latitud">-34.820700000000002</SimpleData>
+		<SimpleData name="Longitud">-56.099899999999998</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0999,-34.8207</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">23K479</SimpleData>
+		<SimpleData name="Descripci�">Punta de Rieles-Barros Blancos</SimpleData>
+		<SimpleData name="Latitud">-34.822200000000002</SimpleData>
+		<SimpleData name="Longitud">-56.100499999999997</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1005,-34.8222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">24K410</SimpleData>
+		<SimpleData name="Descripci�">Punta de Rieles-Barros Blancos</SimpleData>
+		<SimpleData name="Latitud">-34.766599999999997</SimpleData>
+		<SimpleData name="Longitud">-56.021999999999998</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.022,-34.7666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">25K025</SimpleData>
+		<SimpleData name="Descripci�">Punta de Rieles-Barros Blancos</SimpleData>
+		<SimpleData name="Latitud">-34.761200000000002</SimpleData>
+		<SimpleData name="Longitud">-56.014000000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.014,-34.7612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">391K991</SimpleData>
+		<SimpleData name="Descripci�">Melo / Ruta 8 S</SimpleData>
+		<SimpleData name="Latitud">-32.390400000000000</SimpleData>
+		<SimpleData name="Longitud">-54.138599999999997</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1386,-32.3904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">401K886</SimpleData>
+		<SimpleData name="Descripci�">Melo / Ruta 8 N</SimpleData>
+		<SimpleData name="Latitud">-32.344200000000001</SimpleData>
+		<SimpleData name="Longitud">-54.168300000000002</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1683,-32.3442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">288K645</SimpleData>
+		<SimpleData name="Descripci�">Treinta y Tres / Ruta 8 N</SimpleData>
+		<SimpleData name="Latitud">-33.202399999999997</SimpleData>
+		<SimpleData name="Longitud">-54.383099999999999</SimpleData>
+		<SimpleData name="Departamen">Treinta y Tres</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.3831,-33.2024</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">8</SimpleData>
+		<SimpleData name="Progresiva">217K132</SimpleData>
+		<SimpleData name="Descripci�">Pirarajá / Ruta 8 N</SimpleData>
+		<SimpleData name="Latitud">-33.742899999999999</SimpleData>
+		<SimpleData name="Longitud">-54.753799999999998</SimpleData>
+		<SimpleData name="Departamen">Lavalleja</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.7538,-33.7429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">9</SimpleData>
+		<SimpleData name="Progresiva">264K038</SimpleData>
+		<SimpleData name="Descripci�">Castillos</SimpleData>
+		<SimpleData name="Latitud">-34.205100000000002</SimpleData>
+		<SimpleData name="Longitud">-53.853800000000000</SimpleData>
+		<SimpleData name="Departamen">Rocha</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.8538,-34.2051</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">9</SimpleData>
+		<SimpleData name="Progresiva">338K106</SimpleData>
+		<SimpleData name="Descripci�">Chuy</SimpleData>
+		<SimpleData name="Latitud">-33.694099999999999</SimpleData>
+		<SimpleData name="Longitud">-53.447600000000001</SimpleData>
+		<SimpleData name="Departamen">Rocha</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.4476,-33.6941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">9</SimpleData>
+		<SimpleData name="Progresiva">209K409</SimpleData>
+		<SimpleData name="Descripci�">Rocha E</SimpleData>
+		<SimpleData name="Latitud">-34.475800000000000</SimpleData>
+		<SimpleData name="Longitud">-54.304800000000000</SimpleData>
+		<SimpleData name="Departamen">Rocha</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.3048143248884,-34.4757813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">14K621</SimpleData>
+		<SimpleData name="Descripci�">Ecilda Paullier N-E</SimpleData>
+		<SimpleData name="Latitud">-34.354700000000001</SimpleData>
+		<SimpleData name="Longitud">-57.039000000000001</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.0389906309793,-34.3547365</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">39K646</SimpleData>
+		<SimpleData name="Descripci�">Juan Soler</SimpleData>
+		<SimpleData name="Latitud">-34.324800000000003</SimpleData>
+		<SimpleData name="Longitud">-56.801099999999998</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.801061,-34.324803</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">38K923</SimpleData>
+		<SimpleData name="Descripci�">Juan Soler</SimpleData>
+		<SimpleData name="Latitud">-34.321399999999997</SimpleData>
+		<SimpleData name="Longitud">-56.808300000000003</SimpleData>
+		<SimpleData name="Departamen">San José</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.808275,-34.321397</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">139K390</SimpleData>
+		<SimpleData name="Descripci�">San Jacinto S-E</SimpleData>
+		<SimpleData name="Latitud">-34.550400000000003</SimpleData>
+		<SimpleData name="Longitud">-55.868899999999996</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.86885,-34.550381</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">138K372</SimpleData>
+		<SimpleData name="Descripci�">San Jacinto O</SimpleData>
+		<SimpleData name="Latitud">-34.545600000000000</SimpleData>
+		<SimpleData name="Longitud">-55.878100000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.878122,-34.545617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">86K573</SimpleData>
+		<SimpleData name="Descripci�">Santa Lucía S-E</SimpleData>
+		<SimpleData name="Latitud">-34.461199999999998</SimpleData>
+		<SimpleData name="Longitud">-56.378000000000000</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.378031,-34.461197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">11</SimpleData>
+		<SimpleData name="Progresiva">96K586</SimpleData>
+		<SimpleData name="Descripci�">Canelones N-O</SimpleData>
+		<SimpleData name="Latitud">-34.520699999999998</SimpleData>
+		<SimpleData name="Longitud">-56.301099999999998</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.301072,-34.520708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">12</SimpleData>
+		<SimpleData name="Progresiva">78K836</SimpleData>
+		<SimpleData name="Descripci�">Tala O</SimpleData>
+		<SimpleData name="Latitud">-34.343310000000002</SimpleData>
+		<SimpleData name="Longitud">-55.772939999999998</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7729350897078,-34.3433115264252</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">14</SimpleData>
+		<SimpleData name="Progresiva">138K644</SimpleData>
+		<SimpleData name="Descripci�">Trinidad Acceso E</SimpleData>
+		<SimpleData name="Latitud">-33.514699999999998</SimpleData>
+		<SimpleData name="Longitud">-56.883299999999998</SimpleData>
+		<SimpleData name="Departamen">Flores</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.8833,-33.5147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">15</SimpleData>
+		<SimpleData name="Progresiva">27K482</SimpleData>
+		<SimpleData name="Descripci�">Rocha S</SimpleData>
+		<SimpleData name="Latitud">-34.492400000000004</SimpleData>
+		<SimpleData name="Longitud">-54.314599999999999</SimpleData>
+		<SimpleData name="Departamen">Rocha</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.3146489166141,-34.49237355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">17</SimpleData>
+		<SimpleData name="Progresiva">289K350</SimpleData>
+		<SimpleData name="Descripci�">Treinta y Tres</SimpleData>
+		<SimpleData name="Latitud">-33.215000000000003</SimpleData>
+		<SimpleData name="Longitud">-54.369599999999998</SimpleData>
+		<SimpleData name="Departamen">Treinta y Tres</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.3696,-33.215</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">19</SimpleData>
+		<SimpleData name="Progresiva">9K970</SimpleData>
+		<SimpleData name="Descripci�">18 de Julio</SimpleData>
+		<SimpleData name="Latitud">-33.684500000000000</SimpleData>
+		<SimpleData name="Longitud">-53.551400000000001</SimpleData>
+		<SimpleData name="Departamen">Rocha</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5513521221038,-33.684483364</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">21</SimpleData>
+		<SimpleData name="Progresiva">322K880</SimpleData>
+		<SimpleData name="Descripci�">Puente s/Rio San Salvador</SimpleData>
+		<SimpleData name="Latitud">-33.517099999999999</SimpleData>
+		<SimpleData name="Longitud">-58.199599999999997</SimpleData>
+		<SimpleData name="Departamen">Soriano</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.199577586872,-33.51713926</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">21</SimpleData>
+		<SimpleData name="Progresiva">178K500</SimpleData>
+		<SimpleData name="Descripci�">Colonia N</SimpleData>
+		<SimpleData name="Latitud">-34.445900000000002</SimpleData>
+		<SimpleData name="Longitud">-57.837528900000002</SimpleData>
+		<SimpleData name="Departamen">Colonia</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8375288997214,-34.4458980567563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">21</SimpleData>
+		<SimpleData name="Progresiva">255K710</SimpleData>
+		<SimpleData name="Descripci�">Carmelo O</SimpleData>
+		<SimpleData name="Latitud">-33.980800000000002</SimpleData>
+		<SimpleData name="Longitud">-58.289194950000002</SimpleData>
+		<SimpleData name="Departamen">Colonia</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-58.2891949525287,-33.9808343683796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">23</SimpleData>
+		<SimpleData name="Progresiva">149K485</SimpleData>
+		<SimpleData name="Descripci�">Ismael Cortinas</SimpleData>
+		<SimpleData name="Latitud">-33.965499999999999</SimpleData>
+		<SimpleData name="Longitud">-57.092300000000002</SimpleData>
+		<SimpleData name="Departamen">Flores</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.0923,-33.9655</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">26</SimpleData>
+		<SimpleData name="Progresiva">430K679</SimpleData>
+		<SimpleData name="Descripci�">Melo / Ruta 26 O</SimpleData>
+		<SimpleData name="Latitud">-32.365299999999998</SimpleData>
+		<SimpleData name="Longitud">-54.212200000000003</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.2122,-32.3653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">26</SimpleData>
+		<SimpleData name="Progresiva">1K976</SimpleData>
+		<SimpleData name="Descripci�">Melo / Ruta 26 E</SimpleData>
+		<SimpleData name="Latitud">-32.380000000000003</SimpleData>
+		<SimpleData name="Longitud">-54.144100000000002</SimpleData>
+		<SimpleData name="Departamen">Cerro Largo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1441,-32.38</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">30</SimpleData>
+		<SimpleData name="Progresiva">128K280</SimpleData>
+		<SimpleData name="Descripci�">Artigas (Acceso Ruta 4)</SimpleData>
+		<SimpleData name="Latitud">-30.418700000000001</SimpleData>
+		<SimpleData name="Longitud">-56.489699999999999</SimpleData>
+		<SimpleData name="Departamen">Artigas</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.4897,-30.4187</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">30</SimpleData>
+		<SimpleData name="Progresiva">132K715</SimpleData>
+		<SimpleData name="Descripci�">Artigas (Pintado Grande)</SimpleData>
+		<SimpleData name="Latitud">-30.434100000000001</SimpleData>
+		<SimpleData name="Longitud">-56.453099999999999</SimpleData>
+		<SimpleData name="Departamen">Artigas</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.4531,-30.4341</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">30</SimpleData>
+		<SimpleData name="Progresiva">130K890</SimpleData>
+		<SimpleData name="Descripci�">Artigas (Bypass O-E)</SimpleData>
+		<SimpleData name="Latitud">-30.422400000000000</SimpleData>
+		<SimpleData name="Longitud">-56.466299999999997</SimpleData>
+		<SimpleData name="Departamen">Artigas</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.4663,-30.4224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">55</SimpleData>
+		<SimpleData name="Progresiva">13K340</SimpleData>
+		<SimpleData name="Descripci�">Campana</SimpleData>
+		<SimpleData name="Latitud">-34.032200000000003</SimpleData>
+		<SimpleData name="Longitud">-57.899922889999999</SimpleData>
+		<SimpleData name="Departamen">Colonia</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.8999228925513,-34.0321874439653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">67</SimpleData>
+		<SimpleData name="Progresiva">24K850</SimpleData>
+		<SimpleData name="Descripci�">Las Piedras N-E</SimpleData>
+		<SimpleData name="Latitud">-34.707400000000000</SimpleData>
+		<SimpleData name="Longitud">-56.205204999999999</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.205205,-34.707379</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">67</SimpleData>
+		<SimpleData name="Progresiva">39K395</SimpleData>
+		<SimpleData name="Descripci�">Sauce S-O</SimpleData>
+		<SimpleData name="Latitud">-34.653247999999998</SimpleData>
+		<SimpleData name="Longitud">-56.074947999999999</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.074948,-34.653248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">74</SimpleData>
+		<SimpleData name="Progresiva">25K135</SimpleData>
+		<SimpleData name="Descripci�">Barros Blancos</SimpleData>
+		<SimpleData name="Latitud">-34.754179000000001</SimpleData>
+		<SimpleData name="Longitud">-56.019185999999998</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.019186,-34.754179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">74</SimpleData>
+		<SimpleData name="Progresiva">30K510</SimpleData>
+		<SimpleData name="Descripci�">Ruta 6</SimpleData>
+		<SimpleData name="Latitud">-34.715623999999998</SimpleData>
+		<SimpleData name="Longitud">-56.051481000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.051481,-34.715624</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">75</SimpleData>
+		<SimpleData name="Progresiva">35K175</SimpleData>
+		<SimpleData name="Descripci�">Villa Jardines de Pando</SimpleData>
+		<SimpleData name="Latitud">-34.686633999999998</SimpleData>
+		<SimpleData name="Longitud">-55.968091000000001</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.968091,-34.686634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">81</SimpleData>
+		<SimpleData name="Progresiva">9K815</SimpleData>
+		<SimpleData name="Descripci�">Paso a Pache O</SimpleData>
+		<SimpleData name="Latitud">-34.427999999999997</SimpleData>
+		<SimpleData name="Longitud">-56.287707500000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2877074968102,-34.4279963248146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">101</SimpleData>
+		<SimpleData name="Progresiva">25K541</SimpleData>
+		<SimpleData name="Descripci�">Barrio Aeroparque</SimpleData>
+		<SimpleData name="Latitud">-34.789800000000000</SimpleData>
+		<SimpleData name="Longitud">-56.001600000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0016,-34.7898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">101</SimpleData>
+		<SimpleData name="Progresiva">24K825</SimpleData>
+		<SimpleData name="Descripci�">Barrio Aeroparque</SimpleData>
+		<SimpleData name="Latitud">-34.796100000000003</SimpleData>
+		<SimpleData name="Longitud">-56.003100000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0031,-34.7961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">22K900</SimpleData>
+		<SimpleData name="Descripci�">Leopolis</SimpleData>
+		<SimpleData name="Latitud">-34.818399999999997</SimpleData>
+		<SimpleData name="Longitud">-56.015000000000001</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.015,-34.8184</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">24K220</SimpleData>
+		<SimpleData name="Descripci�">Parque Martinelli</SimpleData>
+		<SimpleData name="Latitud">-34.816099999999999</SimpleData>
+		<SimpleData name="Longitud">-56.029200000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0292,-34.8161</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">24K950/25K085</SimpleData>
+		<SimpleData name="Descripci�">Los Paraisos</SimpleData>
+		<SimpleData name="Latitud">-34.812399999999997</SimpleData>
+		<SimpleData name="Longitud">-56.037399999999998</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0374,-34.8124</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">27K840</SimpleData>
+		<SimpleData name="Descripci�">Campeón del Siglo</SimpleData>
+		<SimpleData name="Latitud">-34.797199999999997</SimpleData>
+		<SimpleData name="Longitud">-56.062700000000000</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0627,-34.7972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">31K618/31K516</SimpleData>
+		<SimpleData name="Descripci�">Camino Cruz del Sur</SimpleData>
+		<SimpleData name="Latitud">-34.792499999999997</SimpleData>
+		<SimpleData name="Longitud">-56.097876520000000</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0978765242492,-34.7924786781893</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">36K750/36K636</SimpleData>
+		<SimpleData name="Descripci�">Av de las Instrucciones</SimpleData>
+		<SimpleData name="Latitud">-34.796999999999997</SimpleData>
+		<SimpleData name="Longitud">-56.152445190000002</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.1524451903357,-34.7970453986442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">102</SimpleData>
+		<SimpleData name="Progresiva">45K900</SimpleData>
+		<SimpleData name="Descripci�">Camino Fauquet</SimpleData>
+		<SimpleData name="Latitud">-34.782800000000002</SimpleData>
+		<SimpleData name="Longitud">-56.246663150000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2466631496515,-34.7828261432433</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">107</SimpleData>
+		<SimpleData name="Progresiva">0K394</SimpleData>
+		<SimpleData name="Descripci�">Sauce N-O</SimpleData>
+		<SimpleData name="Latitud">-34.643599999999999</SimpleData>
+		<SimpleData name="Longitud">-56.070214999999997</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.070215,-34.643568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">22K079/21K826</SimpleData>
+		<SimpleData name="Descripci�">Almenara</SimpleData>
+		<SimpleData name="Latitud">-34.826300000000003</SimpleData>
+		<SimpleData name="Longitud">-56.000500000000002</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.0005,-34.8263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">27K442/27K093</SimpleData>
+		<SimpleData name="Descripci�">Colinas de Solymar</SimpleData>
+		<SimpleData name="Latitud">-34.803100000000001</SimpleData>
+		<SimpleData name="Longitud">-55.953800000000001</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.9538,-34.8031</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">35K369/35K210</SimpleData>
+		<SimpleData name="Descripci�">Neptunia</SimpleData>
+		<SimpleData name="Latitud">-34.780600000000000</SimpleData>
+		<SimpleData name="Longitud">-55.873800000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8738,-34.7806</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">37K065/36K800</SimpleData>
+		<SimpleData name="Descripci�">Av. Nogueira y Colón</SimpleData>
+		<SimpleData name="Latitud">-34.777799999999999</SimpleData>
+		<SimpleData name="Longitud">-55.857100000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8571,-34.7778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">40K435/40K091</SimpleData>
+		<SimpleData name="Descripci�">Marindia</SimpleData>
+		<SimpleData name="Latitud">-34.771799999999999</SimpleData>
+		<SimpleData name="Longitud">-55.822099999999999</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8221,-34.7718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">51K051/50K850</SimpleData>
+		<SimpleData name="Descripci�">Parque del Plata</SimpleData>
+		<SimpleData name="Latitud">-34.751199999999997</SimpleData>
+		<SimpleData name="Longitud">-55.712899999999998</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7129,-34.7512</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">64k000</SimpleData>
+		<SimpleData name="Descripci�">San Luis</SimpleData>
+		<SimpleData name="Latitud">-34.770499999999998</SimpleData>
+		<SimpleData name="Longitud">-55.574800000000003</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5748,-34.7705</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">63k000</SimpleData>
+		<SimpleData name="Descripci�">San Luis</SimpleData>
+		<SimpleData name="Latitud">-34.762000000000000</SimpleData>
+		<SimpleData name="Longitud">-55.588200000000001</SimpleData>
+		<SimpleData name="Departamen">Canelones</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5882,-34.762</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">93K400</SimpleData>
+		<SimpleData name="Descripci�">Florida</SimpleData>
+		<SimpleData name="Latitud">-34.109900000000003</SimpleData>
+		<SimpleData name="Longitud">-56.161900000000003</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">5</SimpleData>
+		<SimpleData name="Progresiva">74K800</SimpleData>
+		<SimpleData name="Descripci�">Mendoza</SimpleData>
+		<SimpleData name="Latitud">-34.281599999999997</SimpleData>
+		<SimpleData name="Longitud">-56.195200000000000</SimpleData>
+		<SimpleData name="Departamen">Florida</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">453K100</SimpleData>
+		<SimpleData name="Descripci�">Chapicuy</SimpleData>
+		<SimpleData name="Latitud">-31.668299999999999</SimpleData>
+		<SimpleData name="Longitud">-57.890900000000002</SimpleData>
+		<SimpleData name="Departamen">Paysandú</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">383K500</SimpleData>
+		<SimpleData name="Descripci�">Constancia</SimpleData>
+		<SimpleData name="Latitud">-32.199300000000001</SimpleData>
+		<SimpleData name="Longitud">-58.012200000000000</SimpleData>
+		<SimpleData name="Departamen">Paysandú</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">3</SimpleData>
+		<SimpleData name="Progresiva">370K000</SimpleData>
+		<SimpleData name="Descripci�">Paysandu</SimpleData>
+		<SimpleData name="Latitud">-32.321199999999997</SimpleData>
+		<SimpleData name="Longitud">-58.030700000000003</SimpleData>
+		<SimpleData name="Departamen">Paysandú</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">93</SimpleData>
+		<SimpleData name="Progresiva">2k639</SimpleData>
+		<SimpleData name="Descripci�">Av. Uruguay</SimpleData>
+		<SimpleData name="Latitud">-34.867500000000000</SimpleData>
+		<SimpleData name="Longitud">-55.240900000000003</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">10</SimpleData>
+		<SimpleData name="Progresiva">93k869</SimpleData>
+		<SimpleData name="Descripci�">Playa Hermosa</SimpleData>
+		<SimpleData name="Latitud">-34.839799999999997</SimpleData>
+		<SimpleData name="Longitud">-55.303699999999999</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">10</SimpleData>
+		<SimpleData name="Progresiva">181k660</SimpleData>
+		<SimpleData name="Descripci�">Av. Héctor Soria</SimpleData>
+		<SimpleData name="Latitud">-34.837400000000002</SimpleData>
+		<SimpleData name="Longitud">-54.656500000000001</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">10</SimpleData>
+		<SimpleData name="Progresiva">168k746</SimpleData>
+		<SimpleData name="Descripci�">El Apero</SimpleData>
+		<SimpleData name="Latitud">-34.890999999999998</SimpleData>
+		<SimpleData name="Longitud">-54.789299999999997</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">10</SimpleData>
+		<SimpleData name="Progresiva">167k200</SimpleData>
+		<SimpleData name="Descripci�">La Sortija</SimpleData>
+		<SimpleData name="Latitud">-34.897799999999997</SimpleData>
+		<SimpleData name="Longitud">-54.799999999999997</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">9</SimpleData>
+		<SimpleData name="Progresiva">107k218</SimpleData>
+		<SimpleData name="Descripci�">Pan de Azúcar</SimpleData>
+		<SimpleData name="Latitud">-34.780500000000004</SimpleData>
+		<SimpleData name="Longitud">-55.224699999999999</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">109k603/109k900</SimpleData>
+		<SimpleData name="Descripci�">La Capuera</SimpleData>
+		<SimpleData name="Latitud">-34.864600000000003</SimpleData>
+		<SimpleData name="Longitud">-55.136499999999998</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">117k570/118k792</SimpleData>
+		<SimpleData name="Descripci�">Solanas</SimpleData>
+		<SimpleData name="Latitud">-34.876800000000003</SimpleData>
+		<SimpleData name="Longitud">-55.059399999999997</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

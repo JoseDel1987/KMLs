@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Obras_puntuales" id="Obras_puntuales">
+	<SimpleField name="DENOMINACI" type="string"></SimpleField>
+	<SimpleField name="RUTA" type="float"></SimpleField>
+	<SimpleField name="Prog_inici" type="float"></SimpleField>
+	<SimpleField name="FINANCIACI" type="string"></SimpleField>
+	<SimpleField name="ESTADO" type="string"></SimpleField>
+	<SimpleField name="ID_Obras" type="float"></SimpleField>
+	<SimpleField name="GESTION" type="string"></SimpleField>
+	<SimpleField name="AÑO_inici" type="float"></SimpleField>
+	<SimpleField name="AÑO_fin" type="float"></SimpleField>
+</Schema>
+<Folder><name>Obras_puntuales</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">ROTONDA RUTA 5 Y 14 ACCESO SUR CIUDAD DE DURAZNO</SimpleData>
+		<SimpleData name="RUTA">5</SimpleData>
+		<SimpleData name="Prog_inici">182.699999999999989</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1030</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2019</SimpleData>
+		<SimpleData name="AÑO_fin">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.5223743680899,-33.3956247106111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">PUENTE SOBRE ARROYO AGUA SUCIA</SimpleData>
+		<SimpleData name="RUTA">6</SimpleData>
+		<SimpleData name="Prog_inici">200.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1031</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2019</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.6119398014282,-33.3460039609372</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">R8, ENSANCHE Y REFUERZO DEL PUENTE SOBRE RIO OLIMAR</SimpleData>
+		<SimpleData name="RUTA">8</SimpleData>
+		<SimpleData name="Prog_inici">284.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1004</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2018</SimpleData>
+		<SimpleData name="AÑO_fin">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.4009080297747,-33.2402771801003</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">ACCESO BALNEARIO LA ESMERALDA RUTA 9 KM 280</SimpleData>
+		<SimpleData name="RUTA">9</SimpleData>
+		<SimpleData name="Prog_inici">280.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1032</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.7125371672172,-34.1472199124948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">EMPALME RUTA 9 KM 211</SimpleData>
+		<SimpleData name="RUTA">9</SimpleData>
+		<SimpleData name="Prog_inici">211.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1032</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.2875328587756,-34.4725835817573</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">EMPALME RUTA 10 KM 224</SimpleData>
+		<SimpleData name="RUTA">10</SimpleData>
+		<SimpleData name="Prog_inici">224.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1032</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.1658296483049,-34.6176664115567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">ADECUACIONALCANTARILLAS R31</SimpleData>
+		<SimpleData name="RUTA">31</SimpleData>
+		<SimpleData name="Prog_inici">186.400000000000006</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1028</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.3025668404047,-31.643708022362</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">PUENTE SOBRE ARROYO CUÑAPIRU</SimpleData>
+		<SimpleData name="RUTA">29</SimpleData>
+		<SimpleData name="Prog_inici">10.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1046</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5909435505847,-31.532707290313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Intercambiadores/ Pasaje a desnivel B° Solís</SimpleData>
+		<SimpleData name="RUTA">200</SimpleData>
+		<SimpleData name="Prog_inici">83.200000000000003</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3050</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.37374386,-34.78646688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Intercambiadores/ Pasaje a desnivel Ruta 37</SimpleData>
+		<SimpleData name="RUTA">93</SimpleData>
+		<SimpleData name="Prog_inici">96.500000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3051</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2376176147639,-34.7913066706401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Intercambiadores/ Pasaje a Los Arrayanes</SimpleData>
+		<SimpleData name="RUTA">93</SimpleData>
+		<SimpleData name="Prog_inici">102.299999999999997</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3052</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2075398542297,-34.8343939722829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">PR.CONST.PUENTES R20 - A° DE LOS MOLLES, SALSIPUEDES</SimpleData>
+		<SimpleData name="RUTA">20</SimpleData>
+		<SimpleData name="Prog_inici">145.150000000000006</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1049</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.6196800199809,-32.6327429157456</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">PR.CONST.PUENTES R20 - A° DE LOS MOLLES, SALSIPUEDES</SimpleData>
+		<SimpleData name="RUTA">20</SimpleData>
+		<SimpleData name="Prog_inici">147.360000000000014</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1049</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.5980758270677,-32.6311278547115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">RUTA 29: NUEVO PUENTE SOBRE EL ARROYO CUÑAPIRÚ</SimpleData>
+		<SimpleData name="RUTA">29</SimpleData>
+		<SimpleData name="Prog_inici">10.680000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1108</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.5847712471375,-31.5304450645244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">CONSTRUCCIÓN NVO.PUENTEA°OTASO KM334 DE LA RUTA 8</SimpleData>
+		<SimpleData name="RUTA">8</SimpleData>
+		<SimpleData name="Prog_inici">334.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1055</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.2557042312926,-32.8365405194716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">EMPALMES EN: RUTA 26 Y RUTA 31</SimpleData>
+		<SimpleData name="RUTA">26</SimpleData>
+		<SimpleData name="Prog_inici">34.100000000000001</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1058</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-57.857258795688,-32.0856724462429</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">RUTA 7, NUEVO PUENTE Y ACCESOS SOBRE ARROYO PEDERNAL</SimpleData>
+		<SimpleData name="RUTA">7</SimpleData>
+		<SimpleData name="Prog_inici">75.780000000000001</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1064</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.7794771514147,-34.3651467742659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">8/7/21-ENSANCHEREFUERZO ADECUACIONde Acc.Ptes.A°San Miguel 1</SimpleData>
+		<SimpleData name="RUTA">19</SimpleData>
+		<SimpleData name="Prog_inici">8.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1039</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.5328557918932,-33.6888933619969</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">8/7/21-ENSANCHEREFUERZO ADECUACIONde Acc.Ptes.A°San Miguel 2</SimpleData>
+		<SimpleData name="RUTA">19</SimpleData>
+		<SimpleData name="Prog_inici">8.180000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1039</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.534753774357,-33.6887913883142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">PUENTE Y ACCESOS SOBRE RÍO CEBOLLATÍ</SimpleData>
+		<SimpleData name="RUTA">15</SimpleData>
+		<SimpleData name="Prog_inici">194.699999999999989</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1036</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-53.79667551,-33.27563859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">NUEVO PUENTE SOBRE RIO NEGRO EN PICADA DE ORIBE</SimpleData>
+		<SimpleData name="RUTA">43</SimpleData>
+		<SimpleData name="Prog_inici">52.000000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1024</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2021</SimpleData>
+		<SimpleData name="AÑO_fin">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.8275431626583,-32.5678773301853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">RUTA 5, ENSANCHEREFUERZOY  ADECUACIONACCESOS DEL PUENTE SOBRE RIO YI</SimpleData>
+		<SimpleData name="RUTA">5</SimpleData>
+		<SimpleData name="Prog_inici">185.439999999999998</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1026</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2021</SimpleData>
+		<SimpleData name="AÑO_fin">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.5127482117342,-33.3738554555086</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">RUTA 11: PUENTES SOBRE ARROYO CANELÓN CHICO</SimpleData>
+		<SimpleData name="RUTA">11</SimpleData>
+		<SimpleData name="Prog_inici">99.750000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">En ejecucion</SimpleData>
+		<SimpleData name="ID_Obras">1070</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2667605589832,-34.521183424975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Adecuación de empalme. Ruta 11 y Ruta 45</SimpleData>
+		<SimpleData name="RUTA">11</SimpleData>
+		<SimpleData name="Prog_inici">67.939999999999998</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3031</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2022</SimpleData>
+		<SimpleData name="AÑO_fin">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.5482003616998,-34.3955519479564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Empalme Ruta 12 y Accesos San Francisco de las Sierras (Parque Vacaciones UTE)</SimpleData>
+		<SimpleData name="RUTA">12</SimpleData>
+		<SimpleData name="Prog_inici">347.500000000000000</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3042</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2023</SimpleData>
+		<SimpleData name="AÑO_fin">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.2197976927229,-34.4148036449728</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Rotonda: Ruta 9 y Cno. Sainz Martínez</SimpleData>
+		<SimpleData name="RUTA">9</SimpleData>
+		<SimpleData name="Prog_inici">175.199999999999989</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3126</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.5622199242834,-34.6815990509781</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">Empalme: Ruta 8 y Ruta 13</SimpleData>
+		<SimpleData name="RUTA">8</SimpleData>
+		<SimpleData name="Prog_inici">150.199999999999989</SimpleData>
+		<SimpleData name="FINANCIACI">MANTENIMIENTO</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">3131</SimpleData>
+		<SimpleData name="GESTION">MANTENIMIENTO</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-54.951488358555,-34.2561236424927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Obras_puntuales">
+		<SimpleData name="DENOMINACI">CON A LA BALSA-NVO. PUENTE SUMERGIBLE SOBRE ARROYO CORDOBES</SimpleData>
+		<SimpleData name="FINANCIACI">CVU</SimpleData>
+		<SimpleData name="ESTADO">Finalizada</SimpleData>
+		<SimpleData name="ID_Obras">1023</SimpleData>
+		<SimpleData name="GESTION">OBRAS</SimpleData>
+		<SimpleData name="AÑO_inici">2020</SimpleData>
+		<SimpleData name="AÑO_fin">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-55.3567382494868,-32.7796118876707</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
