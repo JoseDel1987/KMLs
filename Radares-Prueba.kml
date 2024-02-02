@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Radares" id="Radares">
+	<SimpleField name="Ruta" type="float"></SimpleField>
+	<SimpleField name="Progresiva" type="string"></SimpleField>
+	<SimpleField name="description" type="string"></SimpleField>
+	<SimpleField name="Latitud" type="float"></SimpleField>
+	<SimpleField name="Longitud" type="float"></SimpleField>
+	<SimpleField name="Departamen" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+	<SimpleField name="AÑO" type="float"></SimpleField>
+</Schema>
+<Folder><name>Radares</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">0</SimpleData>
+		<SimpleData name="Progresiva">5K845</SimpleData>
+		<SimpleData name="description">Santin Carlos Rossi</SimpleData>
+		<SimpleData name="Latitud">-34.864100000000001</SimpleData>
+		<SimpleData name="Longitud">-56.252699999999997</SimpleData>
+		<SimpleData name="Departamen">Montevideo</SimpleData>
+		<SimpleData name="tipo">MTOP</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-56.2526978701916,-34.8641328576687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Radares">
+		<SimpleData name="Ruta">200</SimpleData>
+		<SimpleData name="Progresiva">117k570/118k792</SimpleData>
+		<SimpleData name="description">Solanas</SimpleData>
+		<SimpleData name="Latitud">-34.876800000000003</SimpleData>
+		<SimpleData name="Longitud">-55.059399999999997</SimpleData>
+		<SimpleData name="Departamen">Maldonado</SimpleData>
+		<SimpleData name="tipo">INTENDENCIA</SimpleData>
+		<SimpleData name="AÑO">2023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>0,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
